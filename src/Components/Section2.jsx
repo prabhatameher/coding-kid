@@ -7,7 +7,7 @@ import { Slide, Zoom } from 'react-reveal';
 const Section2 = () => {
     return (
         <>
-            <Box height='714px' display='flex' alignItems='center' flexWrap='wrap'>
+            <Box height='714px' display='flex' alignItems='center'>
                 <Box marginLeft='45px'>
                     <Zoom>
                         <img src={kidGaming} alt='img-2' />

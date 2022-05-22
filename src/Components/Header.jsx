@@ -39,7 +39,7 @@ const Header = () => {
                     </Box>
                 </Slide>
 
-                <Box display='flex' justifyContent='space-between' flexWrap='wrap-reverse'>
+                <Box display='flex' justifyContent='space-between'>
                     <Box marginLeft='100px' marginTop='55px' color='#fff'>
                         <Slide left>
                             <Box lineHeight='160%' fontSize='50px' fontWeight='800'>Learn Coding For <br /> Kids From Anywhere</Box>
