@@ -7,7 +7,7 @@ import { Slide, Zoom, Fade } from 'react-reveal';
 const Section4 = () => {
     return (
         <>
-            <Box height='714px' display='flex' alignItems='center'>
+            <Box height='714px' display='flex' alignItems='center' flexWrap='wrap'>
                 <Box marginLeft='100px'>
                     <Fade left >
                         <img src={kidFun} alt='img-2' />

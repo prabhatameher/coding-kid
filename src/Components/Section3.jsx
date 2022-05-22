@@ -7,7 +7,7 @@ import { Slide, Zoom } from 'react-reveal';
 const Section3 = () => {
     return (
         <>
-            <Box height='714px' bgcolor='#1B8238' display='flex' alignItems='center' >
+            <Box height='714px' bgcolor='#1B8238' display='flex' alignItems='center' flexWrap='wrap-reverse'>
                 <Box marginLeft='100px'>
                     <Slide left >
                         <Typography sx={{ fontSize: '48px', fontWeight: '700', lineHeight: '60px', color: '#fff' }}>Preparing Your Kids For
